@@ -1,10 +1,11 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.GregorianCalendar;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.Date;
 
-public class DateGenerator {
+public class DateGenerator implements Generator<Date> {
 	
 	public Date generate(){
 		GregorianCalendar gregorianCalendar = new GregorianCalendar();

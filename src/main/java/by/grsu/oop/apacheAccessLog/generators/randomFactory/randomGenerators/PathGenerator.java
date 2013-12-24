@@ -1,12 +1,13 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.Path;
 
-public class PathGenerator {
+public class PathGenerator implements Generator<Path> {
 	
 	private List<String> extensionList = new ArrayList<String>();
 	private List<String> foldersList = new ArrayList<String>();

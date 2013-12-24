@@ -20,6 +20,19 @@ public class LogEntry {
 	private Path path;
 	private Protocol protocol;
 	
+	public LogEntry(Client client, Date date, Error error,
+			Ip ip, Method method, ObjectSize objectSize,
+			Path path, Protocol protocol){
+		this.client = client;
+		this.date = date;
+		this.error = error;
+		this.ip = ip;
+		this.method = method;
+		this.objectSize = objectSize;
+		this.path = path;
+		this.protocol = protocol;
+	}
+	
 	public Client getClient() {
 		return client;
 	}

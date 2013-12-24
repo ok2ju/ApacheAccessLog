@@ -1,30 +1,10 @@
-116.82.56.180 - Opera  "POST media/documents/books/history.txt HTTP/2.0" 501 9357
-84.135.23.72 - Opera  "GET media/documents/books/sum41.pdf HTTP/1.0" 500 71973
-84.44.76.38 - Chrome  "GET media/documents/books/red-book.doc HTTP/2.0" 500 5644
-146.71.122.30 - Opera  "GET media/documents/books/sum41.exe FTP/2.0" 404 64310
-87.102.110.39 - Chrome  "POST media/documents/books/sum41.pdf HTTPS/1.0" 404 25617
-205.109.103.250 - Safari  "GET media/documents/books/history.txt HTTPS/2.0" 404 95332
-187.20.4.112 - Safari  "POST media/documents/books/history.exe FTP/1.0" 404 95109
-218.98.208.205 - Opera  "GET media/documents/books/red-book.pdf HTTPS/1.0" 500 12506
-117.132.228.14 - Chrome  "GET media/documents/books/red-book.exe HTTPS/1.0" 501 59821
-202.105.149.138 - Mozilla  "GET media/documents/books/sum41.exe FTP/1.0" 404 66991
-42.192.230.164 - Chrome  "GET media/documents/books/history.doc HTTPS/2.0" 404 38606
-37.146.101.123 - Opera  "GET media/documents/books/red-book.exe FTP/2.0" 501 34152
-234.39.239.146 - Mozilla  "POST media/documents/books/red-book.txt FTP/2.0" 404 41312
-241.33.232.145 - Mozilla  "POST media/documents/books/history.doc HTTPS/1.0" 501 56558
-5.44.69.166 - IE  "POST media/documents/books/red-book.exe HTTPS/2.0" 501 81793
-54.158.227.211 - IE  "POST media/documents/books/sum41.pdf HTTPS/1.0" 500 31396
-36.14.36.68 - Opera  "GET media/documents/books/red-book.exe HTTP/1.0" 501 16099
-219.3.220.160 - Chrome  "GET media/documents/books/red-book.txt HTTP/2.0" 501 51483
-151.188.47.252 - Opera  "POST media/documents/books/history.pdf HTTPS/2.0" 404 75452
-40.64.163.111 - Mozilla  "GET media/documents/books/red-book.pdf HTTPS/2.0" 404 12252
-156.35.71.155 - Chrome 26.10.2013 11:50:27 +0300 "POST media/documents/books/history.exe FTP/2.0" 404 24166
-218.7.68.62 - Safari 26.10.2013 11:50:27 +0300 "POST media/documents/books/history.txt HTTPS/1.0" 501 18812
-194.46.102.77 - Mozilla 26.10.2013 11:50:27 +0300 "POST media/documents/books/sum41.doc FTP/1.0" 404 26985
-34.208.152.182 - Mozilla 26.10.2013 11:50:27 +0300 "POST media/documents/books/red-book.txt FTP/1.0" 501 56319
-30.254.12.173 - Safari 26.10.2013 11:50:27 +0300 "GET media/documents/books/history.doc HTTPS/1.0" 500 5459
-32.2.201.148 - Safari 26.10.2013 11:50:27 +0300 "POST media/documents/books/history.txt FTP/1.0" 404 69589
-97.108.109.194 - IE 26.10.2013 11:50:27 +0300 "POST media/documents/books/history.txt HTTP/1.0" 500 20252
-236.172.89.184 - Chrome 26.10.2013 11:50:27 +0300 "GET media/documents/books/sum41.exe HTTP/2.0" 500 73197
-150.77.248.236 - Mozilla 26.10.2013 11:50:27 +0300 "GET media/documents/books/red-book.doc FTP/1.0" 501 99414
-130.62.20.3 - Opera 26.10.2013 11:50:27 +0300 "POST media/documents/books/red-book.pdf HTTPS/2.0" 404 56005
+235.5.101.9 - Mozilla [24.12.2013 20:27:34 +0300] "GET /media/documents/books/sum41.exe FTP/1.0" 501 94932
+94.163.203.131 - Mozilla [24.12.2013 20:27:34 +0300] "GET /media/documents/books/sum41.txt FTP/2.0" 501 45037
+142.34.234.49 - Chrome [24.12.2013 20:27:34 +0300] "POST /media/documents/books/history.pdf HTTPS/2.0" 404 48512
+192.2.165.164 - Safari [24.12.2013 20:27:34 +0300] "GET /media/documents/books/sum41.txt HTTPS/2.0" 501 37418
+153.72.181.26 - Safari [24.12.2013 20:27:34 +0300] "POST /media/documents/books/red-book.exe FTP/2.0" 501 68985
+111.84.171.204 - Safari [24.12.2013 20:27:34 +0300] "GET /media/documents/books/history.pdf FTP/1.0" 404 98630
+187.172.83.192 - Opera [24.12.2013 20:27:34 +0300] "POST /media/documents/books/red-book.doc HTTPS/1.0" 501 94402
+213.116.198.49 - Mozilla [24.12.2013 20:27:34 +0300] "POST /media/documents/books/sum41.pdf FTP/2.0" 501 92474
+210.121.239.69 - Safari [24.12.2013 20:27:34 +0300] "POST /media/documents/books/history.doc HTTP/2.0" 501 53917
+20.136.143.70 - Mozilla [24.12.2013 20:27:34 +0300] "GET /media/documents/books/history.txt FTP/1.0" 404 69358

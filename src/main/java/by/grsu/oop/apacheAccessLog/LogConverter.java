@@ -28,7 +28,9 @@ public class LogConverter {
 		stringBuilder.append(" - ");
 		stringBuilder.append(clientTextConverter.convertToText(logEntry.getClient()));
 		stringBuilder.append(" ");
+		stringBuilder.append("[");
 		stringBuilder.append(dateTextConverter.convertToText(logEntry.getDate()));
+		stringBuilder.append("]");
 		stringBuilder.append(" ");
 		stringBuilder.append('"');
 		stringBuilder.append(methodTextConverter.convertToText(logEntry.getMethod()));

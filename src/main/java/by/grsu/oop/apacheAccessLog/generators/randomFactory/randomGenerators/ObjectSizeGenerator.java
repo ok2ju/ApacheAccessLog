@@ -1,10 +1,11 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.Random;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.ObjectSize;
 
-public class ObjectSizeGenerator {
+public class ObjectSizeGenerator implements Generator<ObjectSize> {
 	
 	private Random random = new Random();
 	

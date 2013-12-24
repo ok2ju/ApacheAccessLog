@@ -1,12 +1,13 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.Client;
 
-public class ClientGenerator {
+public class ClientGenerator implements Generator<Client> {
 	
 	private List<String> clientList = new ArrayList<String>();
 	private Random random = new Random();

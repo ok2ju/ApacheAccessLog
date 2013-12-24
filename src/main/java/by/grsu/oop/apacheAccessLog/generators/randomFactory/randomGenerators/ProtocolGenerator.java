@@ -1,12 +1,13 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.Protocol;
 
-public class ProtocolGenerator {
+public class ProtocolGenerator implements Generator<Protocol> {
 	
 	private List<String> protocolList = new ArrayList<String>();
 	private List<String> versionList = new ArrayList<String>();

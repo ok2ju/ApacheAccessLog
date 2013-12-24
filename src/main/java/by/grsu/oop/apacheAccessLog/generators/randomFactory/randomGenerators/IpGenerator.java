@@ -1,10 +1,11 @@
-package by.grsu.oop.apacheAccessLog.generators;
+package by.grsu.oop.apacheAccessLog.generators.randomFactory.randomGenerators;
 
 import java.util.Random;
 
+import by.grsu.oop.apacheAccessLog.generators.Generator;
 import by.grsu.oop.apacheAccessLog.model.Ip;
 
-public class IpGenerator {
+public class IpGenerator implements Generator<Ip> {
 	
 	private Random random = new Random();
 	
